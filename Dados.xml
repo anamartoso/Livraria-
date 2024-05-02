@@ -36,5 +36,9 @@
         <id>5</id>
         <titulo>1984</titulo>
         <autor>George Orwell</autor>
-        <genero>Ficção Científica</gener
+        <genero>Ficção Científica</genero>
+        <preco>59.90</preco>
+        <status>Indisponível</status>
+    </livro>
+ </livraria>   
           
